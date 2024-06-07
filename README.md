@@ -1,4 +1,4 @@
 # legentx
 this is new web side.
 <br>
-Auther - Munazir Khan
+Auther - Munazir Khan (cse)
